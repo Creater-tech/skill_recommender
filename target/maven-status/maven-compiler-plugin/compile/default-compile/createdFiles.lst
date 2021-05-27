@@ -1,0 +1,9 @@
+com\abhicodes\springlogin\Jobs.class
+com\abhicodes\springlogin\CustomUserDetails.class
+com\abhicodes\springlogin\UserRepository.class
+com\abhicodes\springlogin\User.class
+com\abhicodes\springlogin\WebSecurityConfig.class
+com\abhicodes\springlogin\JobsRepository.class
+com\abhicodes\springlogin\AppController.class
+com\abhicodes\springlogin\CustomUserDetailsService.class
+com\abhicodes\springlogin\SpringloginApplication.class
